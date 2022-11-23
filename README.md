@@ -56,11 +56,11 @@ los temas propuestos:
 
 ## Autoevaluación:
 
-1. La ley de Ohm estipula que
-- (a) la corriente es igual al voltaje multiplicado por la resistencia
-- **(b) el voltaje es igual a la corriente multiplicada por la resistencia** ←
-- (c) la resistencia es igual a la corriente dividida entre el voltaje
-- (d) el voltaje es igual al cuadrado de la corriente multiplicada por la resistencia
+1. Cinco resistores de igual valor se conectan en serie y hay una corriente de 2 mA hacia el primer resistor. 
+   La cantidad de corriente que sale del segundo resistor es
+- **(a) igual a 2 mA** ← 
+- (b) menor que 2 mA 
+- (c) mayor que 2 mA
 
 
 ## Exámen Rápido:
