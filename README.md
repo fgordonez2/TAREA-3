@@ -56,20 +56,100 @@ los temas propuestos:
 
 ## Autoevaluación:
 
-1. Cinco resistores de igual valor se conectan en serie y hay una corriente de 2 mA hacia el primer resistor. 
+1.Cinco resistores de igual valor se conectan en serie y hay una corriente de 2 mA hacia el primer resistor. 
    La cantidad de corriente que sale del segundo resistor es
 - **(a) igual a 2 mA** ← 
 - (b) menor que 2 mA 
 - (c) mayor que 2 mA
 
+3.Cuando se conecta un tercer resistor en serie con dos resistores en serie, la resistencia total
+- (a) permanece igual 
+- **(b) aumenta**
+- (c) disminuye 
+- (d) aumenta en un tercio
 
-## Exámen Rápido:
+![image](https://user-images.githubusercontent.com/104925648/203653689-4f31ebf1-b26d-4902-b3a8-ff9f750fa5c3.png)
 
+7.Al colocar cuatro baterías de 1.5 V en una linterna, accidentalmente se pone una batería al revés. El
+voltaje a través del foco será de
+- (a) 6 V 
+- **(b) 3 V**← 
+- (c) 4.5 V 
+- (d) 0 V
 
+9.Hay seis resistores en un circuito en serie dado y cada resistor tiene una caída de 5 V a través de él. El
+voltaje de fuente es
+- (a) 5 V
+- **(b) 30 V**←
+- (c) depende de los valores de los resistores 
+- (d) depende de la corriente
 
+![image](https://user-images.githubusercontent.com/104925648/203654818-28bee304-d3e7-45d7-93e6-1816041acec2.png)
 
+13.Cuando se conecta un amperímetro en un circuito resistivo en serie y se activa el voltaje de fuente, el
+medidor lee cero. Deberá buscarse
+- (a) un alambre roto 
+- (b) un resistor en cortocircuito
+- (c) un resistor abierto 
+- **(d) las respuestas (a) y (c)**←
 
-## Sección 3-1 La relación de corriente, voltaje y resistencia
+## Exámen Rápido de dinámica de Circuitos:
+
+Consulte la figura 5-70
+![image](https://user-images.githubusercontent.com/104925648/203655044-b95d358a-a119-467f-bc88-b051239865a8.png)
+
+1.Si la corriente mostrada por uno de los miliamperímetros se incrementa, la corriente mostrada por los
+otros dos
+- **(a) aumenta**← 
+- (b) disminuye 
+- (c) no cambia
+
+3.Si la corriente a través de R1 se incrementa porque R1 es reemplazado por un resistor diferente, 
+  la corriente indicada por cada miliamperímetro 
+- **(a) aumenta**← 
+- (b) disminuye 
+- (c) no cambia
+
+Consulte la figura 5-73
+![image](https://user-images.githubusercontent.com/104925648/203655339-555d2e19-ef1c-447d-8258-64b119c9592d.png)
+
+5.En las condiciones descritas en la pregunta 4, la corriente a través de R3
+- (a) se incrementa 
+- **(b) disminuye**← 
+- (c) no cambia
+
+7.Cuando los interruptores están en la posición 2 y se desarrolla un corto a través de R3, la corriente en R5
+- **(a) aumenta**← 
+- (b) disminuye 
+- (c) no cambia
+
+Consulte la figura 5-77
+![image](https://user-images.githubusercontent.com/104925648/203655596-80389756-e31d-4a5e-b7a9-911cf5086d28.png)
+
+9. Si el interruptor se cambia de la posición B a la C, el voltaje a través de R4
+- **(a) aumenta**← 
+- (b) disminuye 
+- (c) no cambia
+
+Consulte la figura 5-84(b)
+![image](https://user-images.githubusercontent.com/104925648/203655754-8a875421-813e-4e9f-98d8-06e4d7749615.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203656013-e0397d54-db3e-4f2f-b661-e096abb12020.png)
+
+13.Si el voltaje de la fuente se incrementa de 8 a 10 V, el voltaje de A a B
+- **(a) aumenta**← 
+- (b) disminuye
+- (c) no cambia
+
+Consulte la figura 5-91
+![image](https://user-images.githubusercontent.com/104925648/203656163-574f61f1-f883-4f91-aebf-449270bca7eb.png)
+
+15. Si la fuente de 9 V se invierte, el voltaje en el punto B con respecto a tierra
+- (a) aumenta 
+- **(b) disminuye**← 
+- (c) no cambia
+
+## Sección 5-1 Resistores en serie
 
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente
 cuando
