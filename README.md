@@ -156,20 +156,64 @@ Consulte la figura 5-91
 
 ## Sección 5-1 Resistores en serie
 
-1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente
-cuando
-- (a) el voltaje se triplica → **corriente se triplica**
-- (b) el voltaje se reduce en 75% →**corriente se reduce 75%**
-- (c) la resistencia se duplica → **la corriente se reduce a la mitad**
-- (d) la resistencia se reduce en 35% → **la corriente aumenta un 54 %**
-- (e) el voltaje se duplica y la resistencia se reduce a la mitad → **la corriente se cutriplica**
-- (f) el voltaje y la resistencia se duplican → **la corriente no cambia**
+1.Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
 
-3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
-- V = I*R
+![image](https://user-images.githubusercontent.com/104925648/203657874-26f08645-2cf2-4042-a95a-7e1f189eb057.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203657912-2264e020-506c-4ce6-abea-fc1936452a87.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203658592-382a3d23-7828-4622-b214-a0714d052af7.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203659555-0a2b10fb-112b-4e8c-820f-f9a994c3cd04.png)
+
+## Sección 5-2 Corriente en un circuito en serie
+
+7.La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. 
+ ¿Cuánta corriente indica cada miliamperímetro localiado en el circuito?
+  
+![image](https://user-images.githubusercontent.com/104925648/203659738-6db2538a-97c0-4a8f-a9e0-2182253ebd23.png)
+
+**I= 5 mA en todos los puntos de la corriente**←
+
+9.Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
+de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
+control. Trace el diagrama esquemático.
+
+![image](https://user-images.githubusercontent.com/104925648/203660074-132c0ad4-078a-4555-afbd-3cd832c3b220.png)
+
+## Sección 5-3 Resistencia total en serie
+
+![image](https://user-images.githubusercontent.com/104925648/203661225-3c4ceaa9-0037-4763-8283-aa5352dbcc6b.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203661483-8c88159a-444c-4da1-b788-6c92d3b00c31.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203662062-c06b9c8b-9878-4cbd-98f6-43059e129592.png)
+
+17.En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie
+
+![image](https://user-images.githubusercontent.com/104925648/203662104-cdd89932-8ae1-4d4f-b165-a6bd32a7affc.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203662994-48bcb82e-0783-4b34-ae01-e18b75828253.png)
+
+## Sección 5-4 Aplicación de la Ley de Ohm
+
+19.¿Cuál es la corriente presente en cada circuito de la figura 5-74?
+
+![image](https://user-images.githubusercontent.com/104925648/203663109-792b19f8-dccc-426e-a6f6-e4a43e8249c8.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203664083-35c3cf43-bab0-4192-a38f-2dfdf9f6616b.png)
 
 
-!
+
+
+
+
+
+
+
+
+
+
 ## Sección 3-4 Cálculo de la resistencia
 
 
