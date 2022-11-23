@@ -2,7 +2,7 @@
 ># 1. OBJETIVOS
 # General:
 - Calcular corriente, resistencia, voltaje y potencia en circuitos en serie y en paraleo, mediante la aplicación de la ley de Ohm y 
-  Leyes de Kirchhoff, para desarrolar diferentes tipos de ejercicios.
+  Leyes de Kirchhoff, para desarrolar diferentes tipos de ejercicios propuestos en esta tarea.
  # Específicos:
 - Identificar un circuito resistivo en serie y en paralelo.
 - Aplicar las Leyes de Kirchhoff, la de corriente y la de volatje.
