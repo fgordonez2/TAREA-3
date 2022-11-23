@@ -1,16 +1,13 @@
 # INFORME TAREA-3
 ># 1. OBJETIVOS
-# Generales:
-- Determinar la relación entre corriente, voltaje y resistencia mediante la realización de diferentes ejemplos para explicar como se 
-  emplea la Ley de Ohm.
-- Conocer los conceptos de potencia y energía mediante la lectura del Capítulo 4 del Libro "Principios de circuitos eléctricos" de FLOYD, para poder realizar
-  los respectivos cálculos según necestite en mi circuito eléctrico.
+# General:
+- Calcular corriente, resistencia, voltaje y potencia en circuitos en serie y en paraleo, mediante la aplicación de la ley de Ohm y 
+  Leyes de Kirchhoff, para desarrolar diferentes tipos de ejercicios.
  # Específicos:
-- Aplicar la Ley de Ohm, resolviendo ejercicios de volatje, corriente y resitencia.
-- Identificar el método básico de abordar la localización de fallas AMP.
-- Calcular la potencia de un circuito eléctrico conociendo sus respectivas definicones.
-- Seleccionar de manera correcta un resisitor considerando la potencia.
-- Memorizar la conversión de prefijos y unidades métricas.
+- Identificar un circuito resistivo en serie y en paralelo.
+- Aplicar las Leyes de Kirchhoff, la de corriente y la de volatje.
+- Determinar la potencia en los dos tipos de circuitos.
+- Distinguir las características entres un circuito en serie y in circuito en paralelo.
 
 ># 2. MARCO TEÓRICO (RESUMEN)
 
