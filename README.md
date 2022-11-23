@@ -96,6 +96,7 @@ medidor lee cero. Deberá buscarse
 ## Exámen Rápido de dinámica de Circuitos:
 
 Consulte la figura 5-70
+
 ![image](https://user-images.githubusercontent.com/104925648/203655044-b95d358a-a119-467f-bc88-b051239865a8.png)
 
 1.Si la corriente mostrada por uno de los miliamperímetros se incrementa, la corriente mostrada por los
@@ -111,6 +112,7 @@ otros dos
 - (c) no cambia
 
 Consulte la figura 5-73
+
 ![image](https://user-images.githubusercontent.com/104925648/203655339-555d2e19-ef1c-447d-8258-64b119c9592d.png)
 
 5.En las condiciones descritas en la pregunta 4, la corriente a través de R3
@@ -124,6 +126,7 @@ Consulte la figura 5-73
 - (c) no cambia
 
 Consulte la figura 5-77
+
 ![image](https://user-images.githubusercontent.com/104925648/203655596-80389756-e31d-4a5e-b7a9-911cf5086d28.png)
 
 9. Si el interruptor se cambia de la posición B a la C, el voltaje a través de R4
@@ -132,6 +135,7 @@ Consulte la figura 5-77
 - (c) no cambia
 
 Consulte la figura 5-84(b)
+
 ![image](https://user-images.githubusercontent.com/104925648/203655754-8a875421-813e-4e9f-98d8-06e4d7749615.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/203656013-e0397d54-db3e-4f2f-b661-e096abb12020.png)
@@ -142,6 +146,7 @@ Consulte la figura 5-84(b)
 - (c) no cambia
 
 Consulte la figura 5-91
+
 ![image](https://user-images.githubusercontent.com/104925648/203656163-574f61f1-f883-4f91-aebf-449270bca7eb.png)
 
 15. Si la fuente de 9 V se invierte, el voltaje en el punto B con respecto a tierra
