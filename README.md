@@ -8,6 +8,7 @@
 - Aplicar las Leyes de Kirchhoff, la de corriente y la de volatje.
 - Determinar la potencia en los dos tipos de circuitos.
 - Distinguir las características entre un circuito en serie y un circuito en paralelo.
+- Explicar la localización de fallas en los diferentes circuitos.
 
 ># 2. MARCO TEÓRICO (RESUMEN)
 
