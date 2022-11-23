@@ -5,7 +5,7 @@
   Leyes de Kirchhoff, para desarrolar diferentes tipos de ejercicios propuestos en esta tarea.
  # Específicos:
 - Identificar un circuito resistivo en serie y en paralelo.
-- Aplicar las Leyes de Kirchhoff, la de corriente y la de volatje.
+- Aplicar las Leyes de Kirchhoff, la de corriente y la de voltaje.
 - Determinar la potencia en los dos tipos de circuitos.
 - Distinguir las características entre un circuito en serie y un circuito en paralelo.
 - Explicar la localización de fallas en los diferentes circuitos.
