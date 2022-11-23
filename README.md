@@ -17,6 +17,42 @@
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
 los temas propuestos:
 
+![image](https://user-images.githubusercontent.com/104925648/203469974-06c2dbdb-6549-4234-9c83-80140f644e95.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470001-a9428be8-c3d1-4eaf-a435-f0b873478e89.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470021-b4f98a4f-757c-4e04-ac41-627c74e52d2a.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470047-484f0283-0c4c-48de-92cf-f292dd10c784.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470074-8018ed1f-70f4-48d6-a9c1-382b3230d5f6.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470100-bc435e10-0da5-47fb-bd17-884095e45f08.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470126-f10cb61a-b3b6-46da-9666-767e8fc372f6.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470147-7591e7a2-bfa9-4002-ba82-422e1bc4183e.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470172-05ad6320-4de7-4435-a71e-e11ba7290813.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470208-eb2f9aad-3bfc-4ce3-8359-8f1824981e99.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470235-9c13e2a3-9946-4dcf-9dfc-2dd3b4cf8197.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470258-5af81a0c-a5ac-4109-8318-52b44041ca7d.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470287-0b2701d0-aae6-4490-acb4-e85edca001a6.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470302-9f3e8474-8ed9-4791-ad51-03166886b3f7.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470341-079eb985-8a71-4a4e-a840-882e9ff3f2bc.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470354-280ac081-0d65-4d90-be24-20c86dc4acb6.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203470379-cc02fdf9-aaf4-4377-b8e7-82c754042464.png)
+
+
+
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 # Resolución de ejercicios impares *CAPITULO 3*:
 
