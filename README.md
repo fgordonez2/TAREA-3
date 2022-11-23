@@ -7,7 +7,7 @@
 - Identificar un circuito resistivo en serie y en paralelo.
 - Aplicar las Leyes de Kirchhoff, la de corriente y la de volatje.
 - Determinar la potencia en los dos tipos de circuitos.
-- Distinguir las características entres un circuito en serie y in circuito en paralelo.
+- Distinguir las características entre un circuito en serie y un circuito en paralelo.
 
 ># 2. MARCO TEÓRICO (RESUMEN)
 
