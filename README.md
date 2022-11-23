@@ -52,7 +52,7 @@ los temas propuestos:
 
 
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-# Resolución de ejercicios impares *CAPITULO 3*:
+# Resolución de ejercicios impares *CAPITULO 5*:
 
 ## Autoevaluación:
 
