@@ -57,7 +57,7 @@ los temas propuestos:
 ## Autoevaluación:
 
 1.Cinco resistores de igual valor se conectan en serie y hay una corriente de 2 mA hacia el primer resistor. 
-   La cantidad de corriente que sale del segundo resistor es
+   La cantidad de corriente que sale del segundo resistor es:
 - **(a) igual a 2 mA** ← 
 - (b) menor que 2 mA 
 - (c) mayor que 2 mA
