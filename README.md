@@ -261,6 +261,36 @@ corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D
 
 ## Sección 5-7 Divisores de voltaje
 
+![image](https://user-images.githubusercontent.com/104925648/203672338-78e7fdd3-3030-45bd-9139-d040abe0193a.png)
+
+39.Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a)
+
+![image](https://user-images.githubusercontent.com/104925648/203672387-4b7e5b0c-76db-40b0-8eac-41a5e0a0a578.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203672775-54f1e344-81b0-43eb-b9bc-2526352dbf8e.png)
+
+41.¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
+bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
+
+![image](https://user-images.githubusercontent.com/104925648/203672844-b979feec-df37-45e0-a470-10fa78a95a26.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203673131-e2597acd-3412-4138-8466-0009adad6be0.png)
+
+43.Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+
+![image](https://user-images.githubusercontent.com/104925648/203673195-b819d7f0-cbf6-4bf9-b3a3-497ed6ae2904.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203673547-8a07763f-c088-488f-b6c3-2f6896cccd51.png)
+
+45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
+10 V hasta un máximo de 100 V dentro del 61% con una fuente de 1 a 120 V. El voltaje máximo debe
+ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
+ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
+
+
+
+
+
 
 
 
