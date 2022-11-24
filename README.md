@@ -203,6 +203,74 @@ control. Trace el diagrama esquemático.
 
 ![image](https://user-images.githubusercontent.com/104925648/203664083-35c3cf43-bab0-4192-a38f-2dfdf9f6616b.png)
 
+![image](https://user-images.githubusercontent.com/104925648/203665403-5c362eb8-07b7-42f1-b4ef-3f3d57574710.png)
+
+23.¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
+
+![image](https://user-images.githubusercontent.com/104925648/203665444-420b65e7-173b-42e8-820c-eda3db549125.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203665918-fb0ccf5d-250e-4499-b800-69228f66ebaa.png)
+
+25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
+- (a) ¿Cuál es la resistencia de R4?
+- (b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor? 
+- (c) ¿Se fundirá un fusible de 1/4 A en cualquier posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/104925648/203666267-f47f1ee9-c1e3-46ea-aae9-5d4b59069fb6.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203667351-a138b157-e6d9-4423-bda3-b1ea44b759c7.png)
+
+## Sección 5-5 Fuentes de volatje en serie
+
+27.Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. 
+   Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?
+  
+  VT=5v+9v=14 V
+  
+29.Determine el voltaje de fuente total en cada circuito de la figura 5-79
+
+![image](https://user-images.githubusercontent.com/104925648/203668043-e1f7272e-3759-4f95-ada3-766773e6322b.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203668264-dbaad6f2-9cdc-4e59-a9ae-3b60420a4d28.png)
+
+## Sección 5-6 Ley del voltaje de Kirchhoff
+
+31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. 
+   ¿Cuál es la caída de voltaje en el quinto resistores?
+
+![image](https://user-images.githubusercontent.com/104925648/203668742-d60860df-5041-4aea-a44d-5d77399e62da.png)
+
+33. En el circuito de la figura 5-81, determine la resistencia de R4
+
+![image](https://user-images.githubusercontent.com/104925648/203668794-85121031-4a73-49d6-9452-86d4521880c3.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203669074-d2389a10-526e-4cc2-a0e4-aea42a192e23.png)
+
+35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La
+corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA
+
+![image](https://user-images.githubusercontent.com/104925648/203669115-d173b726-635d-4654-b331-bd75cbeab402.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203670277-82a54c74-eacb-4289-8dd2-9d701db28806.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203670313-cc71a21d-91fd-4108-8105-c25c46fabfd7.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203670333-aa121904-d9cf-409e-8989-92a2a96189e5.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203670352-d1ac235c-9e56-4f98-9d1c-012181190c27.png)
+
+## Sección 5-7 Divisores de voltaje
+
+
+
+
+
+
+ 
+
+
+
+
 
 
 
