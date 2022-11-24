@@ -325,6 +325,78 @@ ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
 
 ![image](https://user-images.githubusercontent.com/104925648/203676522-b9043bd9-0792-496b-8550-7458e5db851d.png)
 
+## Sección 5-8 Potencia en circuitos en serie
+
+47.¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43
+
+![image](https://user-images.githubusercontent.com/104925648/203677021-df7cb659-3e19-4def-b214-2a168ce918c5.png)
+
+Para calcular la potencia total del circuito primero sumamos todos los voltajes para así tener el Vs o Vt y aplicar luego la fórmula de la potencia
+
+![image](https://user-images.githubusercontent.com/104925648/203677748-ed029487-cfbc-42cf-a432-b78c13e1b2a8.png)
+
+49.Encuentre RT en la figura 5-89
+
+![image](https://user-images.githubusercontent.com/104925648/203677823-ed9af9b2-8aed-4179-8516-99e5c42682c0.png)
+
+Usando la ley de ohm y aplicando la fórmula de potencia podemos encontrar el valor de las dos resistencias restantes y al final sumarlas para así obtener Rt
+Y encontramos dichas resistencias:
+
+![image](https://user-images.githubusercontent.com/104925648/203678675-fe7a30af-9fb6-4fea-9519-f3a38e90f9c4.png)
+
+## Sección 5-9 Mediciones de Volatje
+
+51.En la figura 5-90, determine el voltaje en cada punto con respecto a tierra
+
+![image](https://user-images.githubusercontent.com/104925648/203678740-3c1ab1bb-f169-45e3-b2a1-0eaf73006aaf.png)
+
+Primero calculamos la corriente en el circuito para luego calcular cada voltaje
+
+![image](https://user-images.githubusercontent.com/104925648/203679625-428a10bc-4f53-4a41-9472-9ebd82637617.png)
+
+53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra
+
+![image](https://user-images.githubusercontent.com/104925648/203679695-2b6a9c0f-48a4-459b-8314-ed6316f86155.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203681494-00c76915-d03c-4289-8900-da962bf31e0a.png)
+
+## Sección 5-10 Localización de fallas
+
+55.Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué
+componentes fallaron.
+
+![image](https://user-images.githubusercontent.com/104925648/203681623-a5ab9f77-af21-4832-aff8-4ec5dd123878.png)
+
+a) La corriente 0 indica un abierto, es decir r está abierto ya que todo el volatje cae através de él
+b) Se observa que hay un cortocircuito por la mala conexión de alambres, es decir, una mala conexión de los terminales. 
+
+57.La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
+
+![image](https://user-images.githubusercontent.com/104925648/203682023-05fccabf-f51c-406c-ad01-d585f057dfbb.png)
+
+![image](https://user-images.githubusercontent.com/104925648/203682150-fccce0bd-b52f-4ad7-abd4-d3074a1da150.png)
+
+Según los datos obtenidos y dar valores aproximados ya que no se puede visualizar muy bien los colores, se podría decir que si está correcto, pero en cuanto a 
+las mediciones de infinito si son correctas, ya que cuando la resistencia tiende al infinito significa que el circuito está abierto y efectivamente esas trayectorias sí están abiertas.
+
+59.Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo:
+
+![image](https://user-images.githubusercontent.com/104925648/203682517-d47b4b94-aebc-4b1f-8d40-419db95259ca.png)
+
+Esto indica que existe un problema en la medición de la resistencia total, ya que entre las puntas 1 y 2 no existe una trayectoria cerrada, si no que el circuito está abierto; por lo que no podría tener ese valor de resistencia, si no que la resistencia deberá tender al infinito y eso mismo sucede entre las puntas 2 y 4 que tienen una trayectoria abierta en el circuito.
+
+# Resolución de ejercicios impares *CAPITULO 6*:
+
+
+
+
+
+
+
+
+
+
+
 
 
 
