@@ -164,7 +164,12 @@ Consulte la figura 5-91
 
 ![image](https://user-images.githubusercontent.com/104925648/203658592-382a3d23-7828-4622-b214-a0714d052af7.png)
 
+Entre las puntas 1 y 8 están presentes 4 resistencias, sin embargo, debido a que no se pueden observar los colores de las bandas de las resistencias
+asumiré unos valores.
+
 ![image](https://user-images.githubusercontent.com/104925648/203659555-0a2b10fb-112b-4e8c-820f-f9a994c3cd04.png)
+
+Se tiene 3 grupos de resistores en serie en el circuito impreso
 
 ## Sección 5-2 Corriente en un circuito en serie
 
@@ -172,6 +177,9 @@ Consulte la figura 5-91
  ¿Cuánta corriente indica cada miliamperímetro localiado en el circuito?
   
 ![image](https://user-images.githubusercontent.com/104925648/203659738-6db2538a-97c0-4a8f-a9e0-2182253ebd23.png)
+
+Al ser este un circuito en serie, la corriente tiene un valor constante en toda la trayectoria cerrada. 
+Por tanto, cada miliamperio indica un valor de corriente de 5.
 
 **I= 5 mA en todos los puntos de la corriente**←
 
@@ -181,19 +189,29 @@ control. Trace el diagrama esquemático.
 
 ![image](https://user-images.githubusercontent.com/104925648/203660074-132c0ad4-078a-4555-afbd-3cd832c3b220.png)
 
+Para que en cada lámpara se aplique un voltaje de 4.5 V y al no darnos un número limitado de baterías que se pueden colocar, usamos 9 baterías de 1.5 V cada una y que, al sumarlas, ya que están en un circuito en serie da un total de 13.5 V; mismos que por cada caída de voltaje van aplicando 4.5 V a cada lámpara al conectar el interruptor a la trayectoria del circuito.
+
 ## Sección 5-3 Resistencia total en serie
 
 ![image](https://user-images.githubusercontent.com/104925648/203661225-3c4ceaa9-0037-4763-8283-aa5352dbcc6b.png)
 
+Para calcular las resistencias totales de cada grupo de resistores se realiza una suma algebraica de cada resistor perteneciente a un grupo o trayectoria única cerrada.
+
 ![image](https://user-images.githubusercontent.com/104925648/203661483-8c88159a-444c-4da1-b788-6c92d3b00c31.png)
 
+Ya que tenemos 12 resistores con el mismo valor de 5.6, para calcular la resistencia total se procede a multiplicar el número de resistencias existentes por el valor que tienen estas.
+
 ![image](https://user-images.githubusercontent.com/104925648/203662062-c06b9c8b-9878-4cbd-98f6-43059e129592.png)
+
+Se sabe que la resistencia total es igual a la suma algebraica de cada uno de los resistores que hay en un circuito en serie.
 
 17.En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie
 
 ![image](https://user-images.githubusercontent.com/104925648/203662104-cdd89932-8ae1-4d4f-b165-a6bd32a7affc.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/203662994-48bcb82e-0783-4b34-ae01-e18b75828253.png)
+
+Para encontrar la resistencia total realizamos una sumatoria de todas las resistencias que se encuentran en el circuito, primero todas las resistencias se ponen en kilo ohmios y luego se procede a sumar.
 
 ## Sección 5-4 Aplicación de la Ley de Ohm
 
@@ -203,6 +221,8 @@ control. Trace el diagrama esquemático.
 
 ![image](https://user-images.githubusercontent.com/104925648/203664083-35c3cf43-bab0-4192-a38f-2dfdf9f6616b.png)
 
+Para realizar los cálculos de las corrientes primero se realiza una suma de las resistencias en cada circuito para así tener la resistencia total y luego aplicar la ley de ohm para encontrar el dato que pide el ejercicio.
+
 ![image](https://user-images.githubusercontent.com/104925648/203665403-5c362eb8-07b7-42f1-b4ef-3f3d57574710.png)
 
 23.¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
@@ -210,6 +230,8 @@ control. Trace el diagrama esquemático.
 ![image](https://user-images.githubusercontent.com/104925648/203665444-420b65e7-173b-42e8-820c-eda3db549125.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/203665918-fb0ccf5d-250e-4499-b800-69228f66ebaa.png)
+
+Para hallar el valor de cada resistor usamos la ley de ohm.
 
 25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
 - (a) ¿Cuál es la resistencia de R4?
@@ -242,14 +264,20 @@ Ya que ninguna de las corrientes en cualquier posición del interruptor es igual
 
 ![image](https://user-images.githubusercontent.com/104925648/203668742-d60860df-5041-4aea-a44d-5d77399e62da.png)
 
+Por la ley de Kirchhoff de los voltajes se sabe que el voltaje de la fuente es igual a la sumatoria de las caídas de voltaje. Por tanto, usamos esa ley para encontrar la caída de voltaje en el 5to resistor.
+
 33. En el circuito de la figura 5-81, determine la resistencia de R4
 
 ![image](https://user-images.githubusercontent.com/104925648/203668794-85121031-4a73-49d6-9452-86d4521880c3.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/203669074-d2389a10-526e-4cc2-a0e4-aea42a192e23.png)
 
+Para calcular la resistencia de R4 en primer lugar se va a hallar el valor de Vs mediante la ley de Kirchhoff, seguido de hallar Vs usamos la ley de ohm para calcular la corriente en un punto; y al ser este un circuito en serie, la corriente será la misma para todo el circuito. Finalmente, despejando la resistencia de la ley de ohm obtendremos el valor de R4.
+
 35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La
 corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA
+
+Para proceder a calcular R5 en cada una de las posiciones, en primer lugar, mediante la ley de ohm calculamos el valor total de las resistencias de cada trayectoria y una vez obtenido el valor de resistencia total mediante la suma algebraica de las mismas realizamos un despeje en R5 obteniendo así su voltaje.
 
 ![image](https://user-images.githubusercontent.com/104925648/203669115-d173b726-635d-4654-b331-bd75cbeab402.png)
 
@@ -271,6 +299,8 @@ corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D
 
 ![image](https://user-images.githubusercontent.com/104925648/203672775-54f1e344-81b0-43eb-b9bc-2526352dbf8e.png)
 
+Primero calculamos la resistencia total y luego aplicamos la fórmula de divisores de voltaje.
+
 41.¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
 bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
 
@@ -278,16 +308,22 @@ bajo, y todos los demás resistores son múltiplos de dicho valor como se indica
 
 ![image](https://user-images.githubusercontent.com/104925648/203673131-e2597acd-3412-4138-8466-0009adad6be0.png)
 
+Primero usamos la ley de ohm para obtener una ecuación de la intensidad, para luego encontrar el valor especifico de cada voltaje.
+
 43.Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
 
 ![image](https://user-images.githubusercontent.com/104925648/203673195-b819d7f0-cbf6-4bf9-b3a3-497ed6ae2904.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/203673547-8a07763f-c088-488f-b6c3-2f6896cccd51.png)
 
+Primero mediante la ley de ohm calculamos la intensidad presente en el circuito para posterior a eso ir calculando el voltaje en cada resistencia
+
 45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
 10 V hasta un máximo de 100 V dentro del 61% con una fuente de 1 a 120 V. El voltaje máximo debe
 ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
 ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
+
+![image](https://user-images.githubusercontent.com/104925648/203676522-b9043bd9-0792-496b-8550-7458e5db851d.png)
 
 
 
