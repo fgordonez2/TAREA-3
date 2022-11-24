@@ -220,6 +220,8 @@ control. Trace el diagrama esquemático.
 
 ![image](https://user-images.githubusercontent.com/104925648/203667351-a138b157-e6d9-4423-bda3-b1ea44b759c7.png)
 
+Ya que ninguna de las corrientes en cualquier posición del interruptor es igual o mayor a 0.25 amperios el fusible NO se funde.
+
 ## Sección 5-5 Fuentes de volatje en serie
 
 27.Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. 
