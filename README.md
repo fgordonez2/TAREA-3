@@ -636,84 +636,35 @@ mV, 10 kΩ de escala completa entre la derivación para realizar la medición.
 
 ![image](https://user-images.githubusercontent.com/104925648/203704067-7802db47-0019-4b51-9d64-e7ebc74e7baf.png)
 
+![image](https://user-images.githubusercontent.com/104925648/203705891-4526a93c-c4d2-452b-b5de-8cf1da1c1b10.png)
 
+## Sección 6-10 Localización de fallas
 
+43.Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
 
+![image](https://user-images.githubusercontent.com/104925648/203706794-ffee7721-7ba6-4595-9f77-1a54b449896b.png)
 
+45.¿Qué está mal con el circuito de la figura 6-86?
 
+![image](https://user-images.githubusercontent.com/104925648/203706882-a5d7feac-b783-4614-835f-e18ce309157c.png)
 
+Dicho circuito se encuentra bien conectado, por lo que no existe un corto ni aberturas.
 
+47.Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y
+asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de
+la tarjeta. Describa el procedimiento en un formato detallado paso a paso. 
 
+![image](https://user-images.githubusercontent.com/104925648/203707138-1d58a490-b92b-4139-8aaf-7f1cca3714b9.png)
 
+![image](https://user-images.githubusercontent.com/104925648/203709878-3507d5b5-f23f-462e-9a16-97d4c6c8e794.png)
 
+49.Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+- (a) 1 y 2 
+- (b) 2 y 3 
+- (c) 2 y 4 
+- (d) 1 y 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Sección 3-4 Cálculo de la resistencia
-
-
-## Sección 3-5 Introducción a la localización de fallas
-
-![image](https://user-images.githubusercontent.com/104925648/202330677-7fa8594f-1c5a-4cce-8362-55219dc20f3f.png)
-
-# Resolución de ejercicios impares *CAPITULO 4*:
-
-## Autoevaluación:
-
-1.La potencia se puede definir como 
-- (a) energía 
-- (b) calor
-- **(c) la razón de cambio a la cual se utiliza la energía** ← 
-- (d) el tiempo requerido para utilizar la energía
-
-3.Si se requieren 300 ms para utilizar 10,000 J de energía, la potencia es
-- **(a) 33.3 kW** ← 
-
-
+![image](https://user-images.githubusercontent.com/104925648/203710614-cdaa83e2-a58f-40f4-8fb1-846ae9fa23cf.png)
 
 ># 4. VÍDEO
 
