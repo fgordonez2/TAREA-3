@@ -668,7 +668,7 @@ la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
 ># 4. VÍDEO
 
-Vídeo explicativo: 
+Vídeo explicativo: https://youtu.be/PHbc5gwipPs
 
 ># 5. CONCLUSIONES
 
