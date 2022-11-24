@@ -668,20 +668,18 @@ la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
 ># 4. VÍDEO
 
-Vídeo explicativo: https://youtu.be/P-EX5sDqTl4
+Vídeo explicativo: 
 
 ># 5. CONCLUSIONES
 
-- Al aplicar la ley de Ohm en muchos ejercicios se puede concluir que la corriente es directamente proporcinal al volatje e
-  inversamente porporcional a la resistencia.
-- El métdodo básico de abordar la localización de fallas es el APM ( siglas en inglés); que significan, análisis, planificación y medición.
-- Para calcular la potencia en un circuito eléctrico se relaciona la formula de potencia con la ley de Ohm, este proceso sirve de mucho
-  ya que a veces los datos del ejercicio nos dan en función de la Ley de Ohm.
-- Al realizar una lectura de los respectivos capitulos, se concluye que para seleccionar un resisitor que lo voy a implementar a mi
-  circuito eléctrico debo calcular la potencia discipada para que mi resisitor no sufra ningún daño, o puede ocasionar un corto circuito.
-- Los prefijos métricos son de gran ayuda para resolver cualquier tipo de ejercicio ya sea de corriente, volatje, resitencia, potencia o energía
-  al memorizar dichas divisones o multiplicaciones de los prefijos llegaremos a la respuesta correcta.
-  
+- Un circuito en serie de resistencias tiene corriente constante y el volatje se divide, mientras que en un circuito en paralelo de resistencias
+  el voltaje es constante y la corriente se divide.
+- En los circuitos en paralelo la Ley de las corrientes permite encontrar la corriente total que pasa por el circuito y a su vez ayuda al análisis de las corrientes     que pasan por el nodo tanto las que entran como salen.
+- Tanto para circuitos en serie como en paralelo la localización de fallas permite determinar que error al momento de un cortocircuito o algun circuito abierto, 
+  estos fallos  se presentan con mas freciuencia en tarjetas de circuitos o ensamblamientos.
+- En un circuito cerrado, las caídas de voltaje siempre son de polaridad opuesta al voltaje total de la fuente.
+- La potencia total presente en un circuito resistivo en paralelo es la suma de todas las potencias individuales de los resistores que componene al 
+  circuito en paralelo.
 
 ># 6. BIBLIOGRAFÍA
 
